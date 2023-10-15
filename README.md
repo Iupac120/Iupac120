@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iupac120&label=Profile%20views&color=0e75b6&style=flat" alt="iupac120" > </p>
 
-- 🔭 I’m currently working on **hotel ordering app**
+- 🔭 I’m currently working on **e-publisher**
 
-- 🌱 I’m currently learning **TypescriptJs, NextJs**
+- 🌱 I’m currently learning **Docker, NextJs**
 
 - 👯 I’m looking to collaborate on **open source**
 
