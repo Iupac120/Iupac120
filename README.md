@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 👨‍💻 All of my projects are available at [https://wonderful-strudel-c0cbb7.netlify.app/](https://austech.vercel.app//)
+- 👨‍💻 All of my projects are available at [https://austech.vercel.app/](https://austech.vercel.app//)
 
 - 💬 Ask me about **Nodejs, Postgres, Mongodb, Typescript**
 
